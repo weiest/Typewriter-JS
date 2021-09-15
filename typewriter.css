@@ -1,0 +1,15 @@
+.typewriter > .wrap {
+    padding-right: 0.1em;
+    border-right: 0.08em solid #000;
+    animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+    from,
+    to {
+        border-right: 0.08em solid #000;
+    }
+    50% {
+        border-right: 0;
+    }
+}
