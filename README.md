@@ -1,5 +1,5 @@
 # Typewriter JS
- This is the Typing effect for HTML/CSS. Used in my own person site.
+Typing effect using JS. Used in my own person site.
 
 ## Usage
 To start using this effect, you need to import them to the respective sections in the HTML file.
